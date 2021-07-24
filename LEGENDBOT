@@ -37,9 +37,9 @@ _set_bot () {
     rm -rf "$zippath"
     sleep 5
     cd $LEGENDPATH
-    echo "    Starting LEGENDBOT    "
+    echo "    Starting DRAGONBOT    "
     echo "
-    LEGENDBOT
+    DRAGONBOT
     "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
