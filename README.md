@@ -2,11 +2,11 @@
 <b>  🐲DRAGON USERBOT🐲</b>
 </h1>
 
-[![🐲](https://telegra.ph/file/000b419ff41208fe63e2e.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
+[![🐲](https://telegra.ph/file/000b419ff41208fe63e2e.jpg)](https://github.com/LEGEND-OS/DRAGONUSERBOT)
 
 
 <p align="center">
-<a href="https://app.codacy.com/gh/LEGEND-OS/LEGENDBOT?utm_source=github.com&utm_medium=referral&utm_content=LEGEND-OS/LEGENDBOT&utm_campaign=Badge_Grade_Settings" alt="Codacy Badge">
+<a href="https://app.codacy.com/gh/LEGEND-OS/LEGENDBOT?utm_source=github.com&utm_medium=referral&utm_content=LEGEND-OS/DRAGONBOT&utm_campaign=Badge_Grade_Settings" alt="Codacy Badge">
 <img src="https://api.codacy.com/project/badge/Grade/6141417ceaf84545bab6bd671503df51" /> </a>
 <a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="Libraries.io dependency status for GitHub repo"> <img src="https://img.shields.io/librariesio/github/LEGEND-OS/LEGENDBOT" /> </a>
 <a href="http://hits.dwyl.com/LEGEND-OS/LEGENDBOT" alt="HitCount"> <img src="http://hits.dwyl.com/LEGEND-OS/LEGENDBOT.svg" /> </a>
@@ -77,7 +77,7 @@ FORK AT YOUR OWN RISK</h2>
 
 ### StringSession
 
-[![🐲GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+[![🐲GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@KrishnaJaiswal1/DRAGONBOT#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
