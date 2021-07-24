@@ -1,8 +1,8 @@
 <h1 align="center">
-<b> LEGEND 𝐔𝐒𝐄𝐑𝐁𝐎𝐓 🇮🇳</b>
+<b>  🐲DRAGON USERBOT🐲</b>
 </h1>
 
-[![LEGENDBOT](https://telegra.ph/file/fb2860bd9972e2e0be1cc.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
+[![🐲](https://telegra.ph/file/000b419ff41208fe63e2e.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
 
 
 <p align="center">
@@ -33,9 +33,9 @@
 </p>
 
 
-<h2>THIS IS IS A USERBOT OF TELEGRAM. MADE BY @Legend_Mr_Hacker By Hardwork.
+<h2>THIS IS IS A 🐲 USERBOT OF TELEGRAM. MADE BY 🐉shail By Hardwork.
 
-### This is the one and only official LEGENDBOT Userbot made by Legend_Mr_Hacker. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h2>
+### This is the one and only official 🐲DRAGON Userbot made by SHAIL. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h2>
 
 
 ## Status Of Bot 
@@ -51,13 +51,13 @@ FORK AT YOUR OWN RISK</h2>
 
 
 
-<h2 align="center">⚙️ D E P L O Y I N G ⚙️</h2>
+<h2 align="center">⚙️ 🐲D E P L O Y I N G 🐲⚙️</h2>
 
 
 <h3> DEPLOY TO HEROKU </h3>
 
 
-[![Deploy](https://telegra.ph/file/533e92bd3d2e94e959c36.jpg)](https://heroku.com/deploy?template=https://github.com/LEGEND-OS/LEGENDBOT)
+[![🐲Deploy](https://telegra.ph/file/533e92bd3d2e94e959c36.jpg)](https://heroku.com/deploy?template=https://github.com/LEGEND-OS/LEGENDBOT)
 
 <a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FLEGEND-OS%2FLEGENDBOT&template=https%3A%2F%2Fgithub.com%2FLEGEND-OS%2FLEGENDBOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 </a>
@@ -77,22 +77,18 @@ FORK AT YOUR OWN RISK</h2>
 
 ### StringSession
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+[![🐲GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
     - Wait for a while then fill the details.
     - String will be saved in your Saved Message.
+     -🐲🐲W🐲🐲E🐲🐲L🐲🐲C🐉🐉O🐉🐉M🐲🐲E🐲🐲
 
 
-<h1 align="center">TO HOST LEGEND LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
-
-<h2 align="center"> <a href="https://github.com/LEGEND-OS/LEGENDUSERBOT">⚡ LEGEND ⚡</a></h2>
 
 
-# Do U Face Any Problem Contact me Through Telegram Or Whatsapp
-
-[![Whatsapp](https://img.shields.io/badge/Whatsapp%20Me-informational)](+12565003534)
+# Do U Face Any Problem Contact me Through Telegram 🐲THE LITTLE DRAGON
 
 
 <a href="https://t.me/joinchat/Legend_Mr_Hacker"><img src="https://img.shields.io/badge/OWNER%20ME-red.svg?style=for-the-badge&logo=Telegram"></a>
@@ -103,21 +99,15 @@ FORK AT YOUR OWN RISK</h2>
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/joinchat/Legend_Mr_Hacker)
 
 
-<details>
 
-  <summary> • LICENSE • </summary>
 
-![](https://www.gnu.org/graphics/gplv3-or-later.png)
+  
 
-LEGEND-OS
 
-Poject [LEGENDBOT](https://github.com/LEGEND-OS/LEGENDBOT) is free software: you can redistribute it and/or modify
 
-it under the terms of the GNU General Public License as published by
 
-the Free Software Foundation, either version 3 of the License, or
 
-(at your option) any later version.
+Poject 🐵🐲THE LITTLE DRAGON OF SHAIL🐲
 
 This program is distributed in the hope that it will be useful,
 
@@ -131,10 +121,4 @@ You should have received a copy of the GNU General Public License
 
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 
-</details>
-
-<details>
-
-  <summary> • 💡 CREDITS 💞 • </summary>
-  
-• [LEGEND](https://github.com/LEGEND-OS)
+<h2><E N J O Y  🐉 Y O U R 🐉  D R A G O N B O T  ></h2>
